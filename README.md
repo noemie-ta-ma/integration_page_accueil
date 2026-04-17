@@ -34,14 +34,8 @@ Objectif : reproduire fidèlement une maquette en travaillant la **structure HTM
 
 ## Démo (GitHub Pages)
 
-### Repo personnel
 - **HTML/CSS** : https://jujeh-beep-boop.github.io/integration_page_accueil/html-css  
 - **Tailwind** : https://jujeh-beep-boop.github.io/integration_page_accueil/tailwind/
-
-### Repo organisation
-- **HTML/CSS** : https://friendly-giggle-wr1g78k.pages.github.io/html-css  
-- **Tailwind** : https://friendly-giggle-wr1g78k.pages.github.io/tailwind
-
 ---
 
 ## Structure du projet
