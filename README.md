@@ -10,8 +10,8 @@ Ce projet consiste en l'intégration fidèle d'une **page d'accueil** déclinée
 
 ## 🔗 Démos (GitHub Pages)
 
-* **Version HTML/CSS Pur** : [Consulter la démo](https://jujeh-beep-boop.github.io/integration_page_accueil/html-css)
-* **Version Tailwind CSS** : [Consulter la démo](https://jujeh-beep-boop.github.io/integration_page_accueil/tailwind/)
+* **Version HTML/CSS Pur** : [Consulter la démo](https://noemie-ta-ma.github.io/integration_page_accueil/html-css/)
+* **Version Tailwind CSS** : [Consulter la démo](https://noemie-ta-ma.github.io/integration_page_accueil/tailwind/)
 
 ---
 
